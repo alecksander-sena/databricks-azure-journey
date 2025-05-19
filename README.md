@@ -22,19 +22,63 @@ Uma das lições que aprendi no curso "Databricks Azure - DIO", com as excelente
 
 Descobri que, embora a maneira de escrever o código (a sintaxe) varie entre as linguagens, a lógica de programação e o pensamento computacional subjacentes geralmente permanecem os mesmos. Isso significa que, para alcançar um resultado similar, podemos utilizar diferentes linguagens, adaptando apenas a forma de expressar as instruções. Essa compreensão me fez perceber que o foco principal no aprendizado de programação deve ser o desenvolvimento da lógica e do pensamento computacional.
 
-## Tópicos que Pretendo Cobrir (em progresso):
+## Tópicos que Pretendo Cobrir (com base no Bootcamp "Introdução ao Azure Databricks com a Microsoft"):
 
-* [✔️] Introdução ao Azure Databricks e sua arquitetura.
-* [ ] Criação e configuração de Workspaces.
-* [ ] Trabalhando com Notebooks (Python, Scala, SQL, R).
-* [ ] Explorando o Apache Spark e sua integração com o Databricks.
-* [ ] DataFrames e Datasets.
-* [ ] Ingestão e processamento de dados com Data Lake Storage (ADLS).
-* [ ] Integração com outros serviços do Azure (ex: Azure SQL Database, Azure Synapse Analytics).
-* [ ] Modelos de Machine Learning com MLflow no Databricks.
-* [ ] Delta Lake e suas funcionalidades.
-* [ ] Monitoramento e otimização de Jobs.
-* [ ] Conceitos avançados e melhores práticas.
+Esta jornada de aprendizado seguirá a estrutura do Bootcamp "Introdução ao Azure Databricks com a Microsoft" e outros módulos relacionados, incluindo:
+
+**Fundamentos do Azure:**
+
+* [x] Tipo de Nuvem e sua Evolução
+* [x] Criando uma Conta Microsoft e Assinatura Azure para Estudos
+* [x] Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+
+**Introdução ao Azure Databricks com a Microsoft:**
+
+* [x] Introdução ao Azure Databricks com a Microsoft
+* [x] Explorando os Fundamentos e Recursos do Azure Databricks (Desafio de código)
+
+**Fundamentos do Azure para Data Engineering:**
+
+* [x] Fundamentos do Azure para Data Engineering
+
+**Explorando os Recursos do Azure:**
+
+* [ ] Diferença entre Recursos Pagos, Precificação e Métodos de Implementação
+* [ ] Utilizando a Calculadora do Azure para Estimar Custos Mensais
+* [ ] Onde Estudar e Como Aprender Praticando Com Conta Gratuita
+* [ ] Utilizando os Principais Recursos de Dados para Engenharia (ADF, Fabric, Vault)
+* [ ] Criando os Recursos com a Estruturação de uma Infra Completa
+* [ ] Explorando a Precificação e Recursos de Dados para Engenharia no Azure (Desafio de código)
+* [ ] Criando Processos de Redundância de Arquivos na Azure (Desafio de projeto)
+* [ ] Criando um Monitoramento de Custos no Data Factory (Desafio de projeto)
+
+**Dominando o Databricks:**
+
+* [ ] História do Databricks e Como Foi Fundado
+* [ ] Azure Databricks: Criando Uma Conta Gratuita e Iniciando Projetos com o Community
+* [ ] Controle e Versionamento de Código no Notebook da Azure (Desafio de projeto)
+* [ ] Microsoft AI for Tech - Azure Databricks: Desenvolvendo e Gerenciando Pipelines no Azure Databricks (Live)
+
+**Implementação de Fabric e DevOps:**
+
+* [ ] Quais São os Recursos Dentro do Fabric
+* [ ] Como Precificar e Utilizar Todo seu Potencial
+* [ ] Como Utilizar o DevOps, Criar organizações e Projetos
+* [ ] Microsoft AI for Tech - Azure Databricks: Diferenciando um Data Warehouse de um DataLake e DataSmarts (Live)
+* [ ] Github e Azure Devops para Versionamento e Backups (Desafio de projeto)
+* [ ] Avalie este Bootcamp 2025
+
+**Outros Possíveis Tópicos:**
+
+* [ ] Trabalhando com Notebooks (Python, Scala, SQL, R)
+* [ ] Explorando o Apache Spark e sua integração com o Databricks
+* [ ] DataFrames e Datasets
+* [ ] Ingestão e processamento de dados com Data Lake Storage (ADLS)
+* [ ] Integração com outros serviços do Azure (ex: Azure SQL Database, Azure Synapse Analytics)
+* [ ] Modelos de Machine Learning com MLflow no Databricks
+* [ ] Delta Lake e suas funcionalidades
+* [ ] Monitoramento e otimização de Jobs
+* [ ] Conceitos avançados e melhores práticas
 
 ## Como Contribuir
 
